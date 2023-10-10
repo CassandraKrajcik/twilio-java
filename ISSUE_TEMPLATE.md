@@ -25,6 +25,7 @@ A summary of the issue and the environment in which it occurs. If suitable, incl
 ```
 
 ### Technical details:
-* twilio-java version: 
+  twilio-java version: 
 * java version:
 
+ 
